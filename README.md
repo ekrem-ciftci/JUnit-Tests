@@ -8,8 +8,8 @@
     <li>No more main method</li>
 
 <H3>Pom.xml file what I use in project</H3>
-   <p>
-    <dependencies>
+   
+    
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -59,9 +59,5 @@
             <artifactId>extentreports</artifactId>
             <version>5.0.9</version>
         </dependency>
-
-    </dependencies>
-    </p>
-   
     
    
